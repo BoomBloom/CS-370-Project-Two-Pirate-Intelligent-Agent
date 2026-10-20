@@ -1,5 +1,4 @@
 # CS-370-Project-Two-Pirate-Intelligent-Agent
-# CS 370 Project Two: Pirate Intelligent Agent
 
 **Mohannad Abuimeish** | CS 370 | Southern New Hampshire University
 
